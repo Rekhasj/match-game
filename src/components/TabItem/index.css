@@ -1,0 +1,17 @@
+.tab-item-card {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.tab-button {
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}
+.active-tab {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}

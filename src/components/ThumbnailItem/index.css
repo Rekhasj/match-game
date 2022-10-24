@@ -1,0 +1,13 @@
+.thumbnail-item-container {
+  padding: 5px;
+}
+.image-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.thumbnail-image {
+  height: 100px;
+  width: 100px;
+}

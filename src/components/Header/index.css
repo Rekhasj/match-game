@@ -1,0 +1,42 @@
+.match-logo-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #2c0e3a;
+}
+.match-logo-image {
+  height: 40px;
+  width: 100px;
+}
+.score-time-card {
+  list-style-type: none;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+p {
+  color: #ffffff;
+}
+span {
+  color: #fec653;
+  padding-left: 5px;
+}
+.score {
+  padding-right: 10px;
+}
+.time-image {
+  height: 20px;
+  width: 20px;
+}
+.time {
+  color: #fec653;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.timer-card {
+  display: flex;
+}
